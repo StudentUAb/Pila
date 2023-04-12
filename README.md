@@ -15,7 +15,7 @@ O programa recebe valores inteiros, e permite empilar e desempilar e mostra os v
 📌 Programa sobre # Pila
 Funcionamento de uma Pila LIFO(Last In First Out)
 ------------------
-
+<img src="pila.png" alt="page-home">
 ## Sintaxe para compilar:
 
 <pre>gcc pila.c -o pila </pre>
