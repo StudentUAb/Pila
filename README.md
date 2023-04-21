@@ -6,22 +6,22 @@
 <p align="center">
 Trabalho em C
 
-Funcionamento de uma Pila LIFO(Last In First Out) 
+Funcionamento de uma Pilha LIFO(Last In First Out) 
     
-Programa em linguagem C padrão, de nome pila.c, que permita efetuar o teste de um programa.
+Programa em linguagem C padrão, de nome pilha.c, que permita efetuar o teste de um programa.
 O programa recebe valores inteiros, e permite empilar e desempilar e mostra os valores na ordem que vão ficando:
 </p>
 
-📌 Programa sobre # Pila
-Funcionamento de uma Pila LIFO(Last In First Out)
+📌 Programa sobre # Pilha
+Funcionamento de uma Pilha LIFO(Last In First Out)
 ------------------
-<img src="pila.png" alt="page-home">
+<img src="pilha.png" alt="page-home">
 ## Sintaxe para compilar:
 
-<pre>gcc pila.c -o pila </pre>
+<pre>gcc pilha.c -o pila </pre>
 
 ## Sintaxe para executar:
-<pre>./pila </pre>
+<pre>./pilha </pre>
 
 
 O projeto foi feito em C.
